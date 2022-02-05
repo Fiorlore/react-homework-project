@@ -7,7 +7,10 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Prague" />
         <footer>
-          <a href="https://github.com/Fiorlore/react-homework-project">coded</a> 
+          <a href="https://github.com/Fiorlore/react-homework-project"
+          target="_blank"
+          rel="noopener noreferrer">
+          coded</a> 
           {""} by Anna Kwiatkowska
         </footer>
       </div>  
