@@ -6,7 +6,10 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Weather defaultCity="Prague" />
-        <footer>coded by Anna Kwiatkowska</footer>
+        <footer>
+          <a href="https://github.com/Fiorlore/react-homework-project">coded</a> 
+          {""} by Anna Kwiatkowska
+        </footer>
       </div>  
     </div>
   );
