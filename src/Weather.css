@@ -48,3 +48,14 @@
     text-decoration: none;
   }
 
+  .btn-primary {
+      color: white;
+      background-color: #203B64;
+      border: 1px solid #203B64;
+  }
+
+  .btn-primary:hover {
+    background-color: #3C5478;
+    border: 1px solid #3C5478;
+  }
+
